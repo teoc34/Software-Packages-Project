@@ -10,4 +10,3 @@ population = pd.read_csv('data/Population.csv', delimiter=';', index_col=0)
 dropout_rate = pd.read_csv('data/Dropout_rate.csv', delimiter=';', index_col=0)
 poverty = pd.read_csv('data/Poverty.csv', delimiter=';', index_col=0)
 
-buna 
